@@ -61,8 +61,8 @@
 import { defineComponent, ref, computed } from 'vue';
 import { useValidation } from "vue-composable";
 import { VInput, VField, VButton, VAccordion, VTabs, VTab } from '@pathscale/vue3-ui';
-import Snippet from '@/components/Snippet.vue'
-import { template, script } from '@/snippets/signupSnippet.js'
+import Snippet from '../components/Snippet.vue'
+import { template, script } from '../snippets/signupSnippet'
 
 export default defineComponent({
   name: 'Home',
