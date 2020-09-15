@@ -1,14 +1,16 @@
 # Features needed for data-grid
 - sorting (multiple criterias as well)
-- cell editing
 - search/filter function
-- row grouping based on columns
-- show/hide columns
 - checkable rows
 - selection function
 - pagination
-- row re-ordering with drag and drop
-- column re-ordering
-- row expand
 - footer
 - reset filter/sorting
+
+# Future features to be implemented
+- cell editing
+- row grouping based on columns
+- row re-ordering with drag and drop
+- column re-ordering
+- show/hide columns
+- row expand
