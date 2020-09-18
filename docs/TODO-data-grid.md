@@ -13,6 +13,7 @@
 
 - [ ] cell editing
 - [ ] custom components
+- [ ] polish UI
 - [ ] footer
 - [ ] row grouping based on columns
 - [ ] row re-ordering with drag and drop
