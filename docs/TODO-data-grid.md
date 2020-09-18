@@ -6,13 +6,12 @@
 - [x] selection function
 - [x] pagination
 - [x] reset filter/sorting
-
+- [x] custom components
   
 
 # TODO
 
 - [ ] cell editing
-- [ ] custom components
 - [ ] polish UI
 - [ ] footer
 - [ ] row grouping based on columns
