@@ -2,15 +2,14 @@
 
 - [x] sorting (multiple criterias as well)
 - [x] search/filter function
-- [x] checkable rows
-- [x] selection function
-- [x] pagination
 - [x] reset filter/sorting
 - [x] custom components
   
 
 # TODO
-
+- [ ] checkable rows
+- [ ] selection function
+- [ ] pagination
 - [ ] cell editing
 - [ ] polish UI
 - [ ] footer
