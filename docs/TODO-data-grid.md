@@ -9,11 +9,11 @@
 - [x] pagination
 - [x] custom header/footer
 - [x] polish UI
+- [x] show/hide columns
 
 # TODO
 - [ ] cell editing
 - [ ] row grouping based on columns
 - [ ] row re-ordering with drag and drop
 - [ ] column re-ordering
-- [ ] show/hide columns
 - [ ] row expand
