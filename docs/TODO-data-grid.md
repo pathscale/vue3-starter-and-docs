@@ -7,11 +7,11 @@
 - [x] checkable rows
 - [x] selection function
 - [x] pagination
+- [x] custom header/footer
 
 # TODO
 - [ ] cell editing
 - [ ] polish UI
-- [ ] footer
 - [ ] row grouping based on columns
 - [ ] row re-ordering with drag and drop
 - [ ] column re-ordering
