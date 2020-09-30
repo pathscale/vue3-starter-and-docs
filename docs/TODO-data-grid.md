@@ -8,10 +8,10 @@
 - [x] selection function
 - [x] pagination
 - [x] custom header/footer
+- [x] polish UI
 
 # TODO
 - [ ] cell editing
-- [ ] polish UI
 - [ ] row grouping based on columns
 - [ ] row re-ordering with drag and drop
 - [ ] column re-ordering
