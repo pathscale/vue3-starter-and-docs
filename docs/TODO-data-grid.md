@@ -4,12 +4,11 @@
 - [x] search/filter function
 - [x] reset filter/sorting
 - [x] custom components
-  
+- [x] checkable rows
+- [x] selection function
+- [x] pagination
 
 # TODO
-- [ ] checkable rows
-- [ ] selection function
-- [ ] pagination
 - [ ] cell editing
 - [ ] polish UI
 - [ ] footer
