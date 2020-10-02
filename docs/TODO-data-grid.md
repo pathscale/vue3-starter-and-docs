@@ -17,3 +17,4 @@
 - [ ] cell editing
 - [ ] row grouping based on columns
 - [ ] column re-ordering
+- [ ] sticky rows/columns
