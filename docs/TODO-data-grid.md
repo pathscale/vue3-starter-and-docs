@@ -15,6 +15,6 @@
 - [X] cell editing
 
 # TODO
-- [ ] row grouping based on columns
+- [ ] [row grouping based on columns](https://vuetifyjs.com/en/components/data-tables/#grouping)
 - [ ] column re-ordering
-- [ ] sticky rows/columns
+- [ ] [sticky rows/columns](https://codepen.io/pen?&editable=true&editors=101=https%3A%2F%2Fbuefy.org%2F)
