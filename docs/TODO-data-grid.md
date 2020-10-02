@@ -12,9 +12,9 @@
 - [x] show/hide columns
 - [x] row re-ordering with drag and drop
 - [x] row expand
+- [X] cell editing
 
 # TODO
-- [ ] cell editing
 - [ ] row grouping based on columns
 - [ ] column re-ordering
 - [ ] sticky rows/columns
