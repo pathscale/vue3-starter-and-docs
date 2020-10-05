@@ -12,9 +12,10 @@
 - [x] show/hide columns
 - [x] row re-ordering with drag and drop
 - [x] row expand
-- [X] cell editing
+- [x] cell editing
+- [x] [row grouping based on columns](https://vuetifyjs.com/en/components/data-tables/#grouping)
+- [x] column re-ordering
+- [x] [sticky rows/columns](https://buefy.org/documentation/table/#sticky-headers-and-columns)
 
 # TODO
-- [ ] [row grouping based on columns](https://vuetifyjs.com/en/components/data-tables/#grouping)
-- [ ] column re-ordering
-- [ ] [sticky rows/columns](https://buefy.org/documentation/table/#sticky-headers-and-columns)
+- empty for now
